@@ -46,3 +46,7 @@ Once your Dagster Daemon is running, you can start turning on schedules and sens
 The easiest way to deploy your Dagster project is to use Dagster Cloud.
 
 Check out the [Dagster Cloud Documentation](https://docs.dagster.cloud) to learn more.
+
+## Output
+
+Link to github gist [Dagster Weekly Stars](https://gist.github.com/WillowyBoat2388/579b049b9f5b7602aa0d9bf0b93a430f)
