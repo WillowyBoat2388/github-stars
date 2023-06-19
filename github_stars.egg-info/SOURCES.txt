@@ -4,6 +4,7 @@ setup.cfg
 setup.py
 github_stars/__init__.py
 github_stars/assets.py
+github_stars/resources.py
 github_stars.egg-info/PKG-INFO
 github_stars.egg-info/SOURCES.txt
 github_stars.egg-info/dependency_links.txt
